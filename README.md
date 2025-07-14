@@ -1,7 +1,7 @@
 #  Material & Information Flow Improvement – Paint Shop (Bajaj Auto)
 
 > Internship Project | May–July 2025  
-> Location: Akurdi Plant, Pune | Intern: Priya Jha  
+> Location: Chetak Technology Limited, Pune | Intern: Priya Jha  
 > Domain: Lean Manufacturing | Value Stream Mapping | App Development
 
 ---
